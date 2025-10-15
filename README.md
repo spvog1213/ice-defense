@@ -1,2 +1,2 @@
-# ice-shoot
-슈팅 게임
+# ice-defense
+디펜스 게임
